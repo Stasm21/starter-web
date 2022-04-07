@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Stas Mironenko stasm21@gmail.com 
 
 # THANKS
 
